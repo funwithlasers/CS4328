@@ -1,0 +1,10 @@
+# Ignore all #
+##############
+*
+
+# Except #
+##########
+!.gitignore
+!*/
+!*.c
+!README.md
