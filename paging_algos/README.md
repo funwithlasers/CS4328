@@ -8,7 +8,6 @@ Run the following commands to compile files (no errors, few minor warnings)
 
 ```
 gcc -std=c99 paging_algos.c  
-
 ```
 
 ### Running the programs
